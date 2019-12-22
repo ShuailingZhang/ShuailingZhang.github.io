@@ -2,17 +2,17 @@
 # Theme Customization #
 #######################
 
-title: J. Bravo                             # used in <title> tag & site header
-author: Johnny Bravo                        # used in a <meta> tag & /feed.xml
+title: Zhang shuailing                            # used in <title> tag & site header
+author: Zhang shuailing                        # used in a <meta> tag & /feed.xml
 description: >                              # used in a <meta> tag & /feed.xml
-  Hello 911 emergency, there's a handsome guy in my house!
-  Oh wait a second, cancel that. It's only me.
-slogan: Showtime!                           # used in site header, beside title
-avatar: /i/avatar.png                       # used as portrait in site header
+  Hello, my name is Zhang shuailing, you can also call me Shaylyn. I'm a Chinese college student. 
+  If you love Chinese culture, then we can make a friend.
+slogan: Welcome!                           # used in site header, beside title
+avatar: /i/avatar.png                      # used as portrait in site header
 banner: /i/mountains.svg                    # used as background in site header
-url: http://solana.ryanlue.com              # used by plugins to generate feed.xml and sitemap.xml
+url: https://shuailingzhang.github.io/              # used by plugins to generate feed.xml and sitemap.xml
 baseurl: ''                                 # prepended to all absolute filepaths
-repo: https://github.com/rlue/jekyll-solana # used in footer
+repo: https://github.com/ShuailingZhang # used in footer
 
 # Objects listed here will appear in the main nav menu.
 # Exceeding four items may cause problems on the desktop (>900px wide) layout.
@@ -24,7 +24,7 @@ nav_menu:
     url: /projects
     icon: /i/icons.svg#portfolio
   - name: GitHub
-    url: https://github.com/rlue/
+    url: https://github.com/ShuailingZhang
     icon: /i/icons.svg#github
     outbound: true      # this key sets a link to open in a new window.
   - name: Contact
@@ -35,21 +35,21 @@ nav_menu:
 
 # Objects listed here will appear on the /projects.html page.
 projects:
-  - title: Solana
-    teaser: A responsive blog template written in Sass and vanilla JavaScript.
-    url: https://github.com/rlue/jekyll-solana
-    role: Creator
-    category: Frontend Dev
-  - title: Cortana
-    teaser: A talking robot. Now available on Google Play?
-    url: https://play.google.com/store/apps/details?id=com.microsoft.cortana
-    role: Core Team
-    category: NLP
-  - title: Rihanna
-    teaser: Possibly another robot. Also available on Google Play.
-    url: https://play.google.com/store/music/artist/Rihanna?id=Arcw2m2ih45qntv3fufub25tyhu
-    role: Contributor
-    category: Algorithmic Composition
+  - title: 京剧
+    teaser: 京剧，曾称平剧，亦称乱弹、国剧。我国知名戏曲剧种，中国五大戏曲剧种之一，场景布置注重写意，腔调以西皮、二黄为主，被视为中国国粹，中国戏曲三鼎甲“榜首”。京剧艺术博大精深，文戏武戏各美其美。
+    url: https://baike.baidu.com/item/%E4%BA%AC%E5%89%A7/75719?fr=aladdin
+    role: 创建者
+    category: 中国文化
+  - title: 刺绣
+    teaser: 刺绣是针线在织物上绣制的各种装饰图案的总称。
+    url: https://baike.baidu.com/item/%E5%88%BA%E7%BB%A3/601645?fr=aladdin
+    role: 创建者
+    category: 中国文化
+  - title: 石窟
+    teaser: 四大石窟指的是以中国佛教文化为特色的巨型石窟艺术景观，包括：莫高窟（甘肃敦煌）、云冈石窟（山西大同）、龙门石窟（河南洛阳）、麦积山石窟（甘肃天水），是中国古代传统文化艺术的历史瑰宝。
+    url: https://baike.baidu.com/item/%E5%9B%9B%E5%A4%A7%E7%9F%B3%E7%AA%9F/2559366?fr=aladdin
+    role: 创建者
+    category: 中国文化
 
 #################
 # Site Settings #
